@@ -9,3 +9,6 @@ Awesome list of perks and benefits for students
 ## Development
 
 [GitHub Education](https://education.github.com/): GitHub offers serveral tools and benefits for students, including the [GitHub Student Developer Pack](https://education.github.com/pack) with several freebies and benefits, including GitHub private repositories while you are a Student.
+
+## Training & Events
+[Linux Foundation Supporter](https://www.linuxfoundation.org/membership/individual/): A student can apply for a free membership to the Linux Foundation as supporter. Includes discounts for training and events, as well as certifications. 
