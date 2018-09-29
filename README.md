@@ -8,4 +8,4 @@ Awesome list of perks and benefits for students
 
 ## Development
 
-[GitHub Education](https://education.github.com/): GitHub serveral tools and benefits, including the [GitHub Student Developer Pack](https://education.github.com/pack) with several freebies and benefits, including GitHub private repositories while you are a Student.
+[GitHub Education](https://education.github.com/): GitHub offers serveral tools and benefits for students, including the [GitHub Student Developer Pack](https://education.github.com/pack) with several freebies and benefits, including GitHub private repositories while you are a Student.
